@@ -1,1 +1,1 @@
-# NeurIPS-2024--Ariel-Data-Challenge
+# Google - Unlock Global Communication with Gemma
